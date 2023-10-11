@@ -1,0 +1,8 @@
+de conceitos, nos buscamos entender 
+yolo - algoritimo que escolhemos para o tratamento de imagens- - rede neural DarkNet-19 - única analise 
+rede neural e tecnologia rede neural convolucional - treinamento - imagens - filtros - conjunto de dados 
+dataSet - conjunto de dados
+
+final - prototipo  
+- esquerda imagens com o treimento do label image - numero é a classe 
+- direita é um video - carro - erro da faixa 
